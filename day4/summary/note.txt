@@ -1,0 +1,3 @@
+Yes, i could display the charts with pio so it displays on the export....
+but do i want to do that?
+NO
