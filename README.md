@@ -9,6 +9,9 @@ This project focuses on building practical data analysis skills through hands-on
 ## Daily Projects
 
 - [Day 1: Hospital Operations Analysis](./day1/)
+- [Day 2: Earthquake & Tsunami Risk Assessment](./day2/)
+- [Day 3: Health and Lifestyle Recommendation System](./day3/)
+- [Day 4: Netflix EDA - Content Strategy Analysis](./day4/)
 
 ## Goals
 
