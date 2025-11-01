@@ -12,6 +12,8 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 2: Earthquake & Tsunami Risk Assessment](./day2/)
 - [Day 3: Health and Lifestyle Recommendation System](./day3/)
 - [Day 4: Netflix EDA - Content Strategy Analysis](./day4/)
+- [Day 5: Fruit Classification - ML Classification Models](./day5/)
+- [Day 6: Student Data Analysis & Multi‑Output Score Predictor](./day6/)
 
 ## Goals
 
