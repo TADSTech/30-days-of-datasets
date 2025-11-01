@@ -1,4 +1,4 @@
-# Day 6 — Student Data Analysis & Multi‑Output Score Predictor
+# Day 6: Student Data Analysis & Multi‑Output Score Predictor
 
 ## Dataset
 Students Academic Performance Dataset  
