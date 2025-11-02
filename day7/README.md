@@ -1,4 +1,4 @@
-# Day 7 — Decoding Medical Costs: Analyzing Insurance Data
+# Day 7: Decoding Medical Costs: Analyzing Insurance Data
 
 
 ## Dataset
