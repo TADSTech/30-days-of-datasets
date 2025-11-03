@@ -1,0 +1,22 @@
+
+ENERGY COST PREDICTION MODEL - SUMMARY REPORT
+
+Dataset: 471 customers (Residential & Commercial)
+Target Variable: Energy Cost (BRL)
+
+Model: Decision Tree Regressor
+- Max Depth: 10
+- Min Samples Split: 5
+
+Performance Metrics:
+- Test R2 Score: 0.5985
+- Test MAE: BRL 13.19
+- Test RMSE: BRL 15.34
+
+Top Feature: Occupants (0.9806)
+
+Key Insights:
+- Occupants and building size are strong cost predictors
+- Commercial customers pay average BRL 86.35
+- Residential customers pay average BRL 87.15
+- Regional variation exists with cost ranging from BRL 52.52 to BRL 158.61
