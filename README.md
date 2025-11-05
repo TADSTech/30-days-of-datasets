@@ -14,6 +14,10 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 4: Netflix EDA - Content Strategy Analysis](./day4/)
 - [Day 5: Fruit Classification - ML Classification Models](./day5/)
 - [Day 6: Student Data Analysis & Multi‑Output Score Predictor](./day6/)
+- [Day 7: Decoding Medical Costs: Analyzing Insurance Data](./day7)
+- [Day 8: Energy Consumption & Cost Prediction](./day8)
+- [Day 9: BMW Sales Data Analysis & Price Prediction](./day9)
+- [Day 10: GoodRead Books Analysis](./day10)
 
 ## Goals
 
