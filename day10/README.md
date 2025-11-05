@@ -2,7 +2,7 @@
 
 ## Dataset
 Kaggle:<br>
-[Goodreads Books Dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
+[Goodreads Books Dataset](https://www.kaggle.com/datasets/kutayahin/goodreads-books-dataset)
 
 ## Project Summary
 
