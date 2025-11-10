@@ -21,6 +21,8 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 11: Housing Price Analysis & Prediction](./day11/)
 - [Day 12: Heart Disease Prediction](./day12/)
 - [Day 13: Car Price Prediction 2025](./day13/)
+- [Day 14: Global Mobile Prices Analysis](./day14/)
+- [Day 15: Loan Eligibility Prediction](./day15/)
 
 ## Project Details
 
@@ -89,6 +91,16 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: XGBoost regressor outperforming other models for car price prediction.  
 **Key Findings**: Car age and mileage per year strong predictors, luxury brands premium, electric/hybrid trends, R² 0.90+ performance.
 
+### Day 14: Global Mobile Prices Analysis and Trend Forecasting
+**Dataset**: [World Smartphone Market 2025](https://www.kaggle.com/datasets/shahzadi786/world-smartphone-market-2025)  
+**Summary**: Exploratory analysis of global mobile phone listings using Plotly. Attempted short-term trend forecasting on annual median prices when multi-year data is available. Produced a conservative supervised baseline pipeline and saved trend artifacts for reproducibility.
+**Key Findings**: Price distribution is right-skewed, specification clusters at common values, cross-sectional correlations with price are weak, annual median price provides a stable short-term signal when available.
+
+### Day 15: Loan Eligibility Prediction
+**Dataset**: Loan eligibility CSV (`data/Loan_Eligibility_Prediction.csv`)  
+**Summary**: Classification pipeline to predict loan approval. Includes encoding, feature engineering, model comparison (Logistic Regression, Decision Tree, Random Forest), and a final selected model exported for reuse.
+**Key Findings**: Approval strongly linked to credit history and verified income; married and semiurban applicants show higher approval rates in this dataset.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -104,4 +116,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 13/30
+Current Day: 15/30
