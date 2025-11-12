@@ -30,10 +30,8 @@ Performance metrics reported: precision, recall, and F1 score for the approval c
 
 - `notebooks/LoanEligibillity.ipynb` — notebook with full pipeline, visualizations, and model export.
 - `data/Loan_Eligibility_Prediction.csv` — dataset used for modeling.
-- `models/` — saved model artifacts (if exported).
 
 ## How to run
 
 1. Open `notebooks/LoanEligibillity.ipynb` and execute cells sequentially.
 2. To use the exported model, load the joblib artifact and call the provided prediction helper.
-# Day 15

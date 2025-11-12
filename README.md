@@ -23,6 +23,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 13: Car Price Prediction 2025](./day13/)
 - [Day 14: Global Mobile Prices Analysis](./day14/)
 - [Day 15: Loan Eligibility Prediction](./day15/)
+- [Day 16 & 17: Ensemble-Powered Loan Payback Prediction](./day16&17/)
 
 ## Project Details
 
@@ -101,6 +102,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Classification pipeline to predict loan approval. Includes encoding, feature engineering, model comparison (Logistic Regression, Decision Tree, Random Forest), and a final selected model exported for reuse.
 **Key Findings**: Approval strongly linked to credit history and verified income; married and semiurban applicants show higher approval rates in this dataset.
 
+### Day 16 & 17: Ensemble-Powered Loan Payback Prediction
+**Dataset**: [Playground Series S5E11](https://www.kaggle.com/competitions/playground-series-s5e11)  
+**Summary**: Ensemble classification for loan payback prediction using CatBoost, LightGBM, and XGBoost with cross-validation. Includes preprocessing, model comparison, and additional visualizations for insights.
+**Key Findings**: CatBoost and LightGBM top performers; ensemble improves robustness; education level and grade are key predictors.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -116,4 +122,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 15/30
+Current Day: 17/30
