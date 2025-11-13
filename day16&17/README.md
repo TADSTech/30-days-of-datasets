@@ -25,18 +25,8 @@ This project implements an ensemble-powered machine learning pipeline for predic
 ## Visualizations
 
 - Model performance comparison bar chart.
-- Confusion matrix for the best model.
-- ROC curves for all models.
-- Feature importance bar chart (top 20).
-- Distribution of predicted probabilities.
 
-## Files
+## Kaggle
 
-- `ensemble-powered-loan-payback-prediction.ipynb` — Complete notebook with preprocessing, training, ensemble, and visualizations.
-- `catboost_full_pipeline.joblib` — Saved CatBoost pipeline for inference.
-
-## How to run
-
-1. Install dependencies: `pip install pandas numpy plotly scikit-learn xgboost lightgbm catboost joblib`.
-2. Open the notebook in Jupyter and execute cells sequentially.
-3. For inference, load the saved pipeline and use `predict_proba` on new data.
+To get the full experience, check out the kaggle set
+[Ensemble(Voting) Powered Loan Payback Prediction](https://www.kaggle.com/code/miclenzy/ensemble-powered-loan-payback-prediction)

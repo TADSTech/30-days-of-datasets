@@ -24,6 +24,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 14: Global Mobile Prices Analysis](./day14/)
 - [Day 15: Loan Eligibility Prediction](./day15/)
 - [Day 16 & 17: Ensemble-Powered Loan Payback Prediction](./day16&17/)
+- [Day 18: SMS Spam Filter](./day18/)
 
 ## Project Details
 
@@ -107,6 +108,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Ensemble classification for loan payback prediction using CatBoost, LightGBM, and XGBoost with cross-validation. Includes preprocessing, model comparison, and additional visualizations for insights.
 **Key Findings**: CatBoost and LightGBM top performers; ensemble improves robustness; education level and grade are key predictors.
 
+### Day 18: SMS Spam Filter
+**Dataset**: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
+**Summary**: Naive Bayes classifier with TF-IDF for SMS spam detection. Includes visualizations of text distributions and model evaluation.
+**Key Findings**: Effective spam classification; text length patterns differ by label; potential for improvement with larger, diverse text datasets.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -122,4 +128,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 17/30
+Current Day: 18/30
