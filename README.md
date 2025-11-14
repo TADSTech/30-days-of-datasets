@@ -25,6 +25,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 15: Loan Eligibility Prediction](./day15/)
 - [Day 16 & 17: Ensemble-Powered Loan Payback Prediction](./day16&17/)
 - [Day 18: SMS Spam Filter](./day18/)
+- [Day 19: Student Performance Factors Analysis](./day19/)
 
 ## Project Details
 
@@ -113,6 +114,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Naive Bayes classifier with TF-IDF for SMS spam detection. Includes visualizations of text distributions and model evaluation.
 **Key Findings**: Effective spam classification; text length patterns differ by label; potential for improvement with larger, diverse text datasets.
 
+### Day 19: Student Performance Factors Analysis
+**Dataset**: [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)  
+**Summary**: Exploratory data analysis of student performance factors using Plotly and Seaborn visualizations.  
+**Key Findings**: Attendance and hours studied strongest predictors of exam scores, parental education shows positive association, gender differences minimal.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -128,4 +134,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 18/30
+Current Day: 19/30
