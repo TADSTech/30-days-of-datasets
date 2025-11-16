@@ -2,7 +2,7 @@
 
 ## Dataset
 
-[Dataset Link - https://www.kaggle.com/datasets/alanjo/gpu-data]
+[Dataset Link - https://www.kaggle.com/datasets/ellimaaac/gpus-specs-from-1986-to-2026]
 
 ## Summary
 

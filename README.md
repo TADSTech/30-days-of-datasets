@@ -27,6 +27,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 18: SMS Spam Filter](./day18/)
 - [Day 19: Student Performance Factors Analysis](./day19/)
 - [Day 20: GPU Evolution Analysis](./day20/)
+- [Day 21: UK Job Market Analysis 2025](./day21/)
 
 ## Project Details
 
@@ -125,6 +126,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Analysis of GPU specifications evolution from 1986-2026 with temporal trends and lightweight ML prediction.  
 **Key Findings**: Exponential memory growth, NVIDIA dominance, linear regression challenges with technological progress.
 
+### Day 21: UK Job Market Analysis 2025
+**Dataset**: [Jobs 2025 Dataset](https://www.kaggle.com/datasets/jakupymeraj/jobs-a-2025-dataset)  
+**Summary**: EDA of UK job postings with salary analysis and Random Forest prediction model.  
+**Key Findings**: Teaching/healthcare jobs dominant, energy/legal highest salaries, predictive model for salary estimation.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -140,4 +146,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 20/30
+Current Day: 21/30
