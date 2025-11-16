@@ -26,6 +26,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 16 & 17: Ensemble-Powered Loan Payback Prediction](./day16&17/)
 - [Day 18: SMS Spam Filter](./day18/)
 - [Day 19: Student Performance Factors Analysis](./day19/)
+- [Day 20: GPU Evolution Analysis](./day20/)
 
 ## Project Details
 
@@ -119,6 +120,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Exploratory data analysis of student performance factors using Plotly and Seaborn visualizations.  
 **Key Findings**: Attendance and hours studied strongest predictors of exam scores, parental education shows positive association, gender differences minimal.
 
+### Day 20: GPU Evolution Analysis
+**Dataset**: [GPU Data](https://www.kaggle.com/datasets/alanjo/gpu-data)  
+**Summary**: Analysis of GPU specifications evolution from 1986-2026 with temporal trends and lightweight ML prediction.  
+**Key Findings**: Exponential memory growth, NVIDIA dominance, linear regression challenges with technological progress.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -134,4 +140,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 19/30
+Current Day: 20/30

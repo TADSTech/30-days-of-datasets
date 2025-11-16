@@ -2,7 +2,7 @@
 
 ## Dataset
 
-[Dataset Link - https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset]
+[Dataset Link](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 ## Summary
 
