@@ -28,6 +28,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 19: Student Performance Factors Analysis](./day19/)
 - [Day 20: GPU Evolution Analysis](./day20/)
 - [Day 21: UK Job Market Analysis 2025](./day21/)
+- [Day 22: Iris Flower Classification](./day22/)
 
 ## Project Details
 
@@ -72,7 +73,7 @@ This project focuses on building practical data analysis skills through hands-on
 **Key Findings**: Building size and occupants strongest predictors, cost range BRL 52-154, regional consumption patterns, AC premium.
 
 ### Day 9: BMW Sales Data Analysis & Price Prediction
-**Dataset**: [BMW Sales Data (2010-2024)](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024)  
+**Dataset**: [BMW Sales Data (2010-2024)](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20101024)  
 **Summary**: AdaBoost regressor for BMW price prediction with comprehensive sales trend analysis.  
 **Key Findings**: Petrol dominance, top models (5/3/X3 Series), automatic transmission preference, regional fuel preferences, strong predictive performance.
 
@@ -131,6 +132,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: EDA of UK job postings with salary analysis and Random Forest prediction model.  
 **Key Findings**: Teaching/healthcare jobs dominant, energy/legal highest salaries, predictive model for salary estimation.
 
+### Day 22: Iris Flower Classification
+**Dataset**: [Iris Flowers Dataset](https://www.kaggle.com/datasets/nalisha/machine-learning-practice-dataset-iris-flowers)  
+**Summary**: EDA and Random Forest classification of Iris species based on flower measurements.  
+**Key Findings**: Petal dimensions key differentiators, high model accuracy, clear species separation.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -146,4 +152,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 21/30
+Current Day: 22/30
