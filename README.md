@@ -29,6 +29,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 20: GPU Evolution Analysis](./day20/)
 - [Day 21: UK Job Market Analysis 2025](./day21/)
 - [Day 22: Iris Flower Classification](./day22/)
+- [Day 23: Spotify Track Data Analysis](./day23/)
 
 ## Project Details
 
@@ -137,6 +138,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: EDA and Random Forest classification of Iris species based on flower measurements.  
 **Key Findings**: Petal dimensions key differentiators, high model accuracy, clear species separation.
 
+### Day 23: Spotify Track Data Analysis
+**Dataset**: Spotify track datasets (track_data_final.csv and spotify_data_clean.csv)  
+**Summary**: Extensive EDA on Spotify track data including popularity, artist metrics, and genres, followed by classification models to predict track popularity categories.  
+**Key Findings**: Track popularity correlates with artist popularity and followers, explicit content analysis, genre distributions, classification models achieving reasonable accuracy.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -152,4 +158,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 22/30
+Current Day: 23/30
