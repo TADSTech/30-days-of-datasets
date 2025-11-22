@@ -30,6 +30,10 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 21: UK Job Market Analysis 2025](./day21/)
 - [Day 22: Iris Flower Classification](./day22/)
 - [Day 23: Spotify Track Data Analysis](./day23/)
+- [Day 24: Patient Health Dataset EDA and ML](./day24/)
+- [Day 25: Diamonds Dataset EDA with Plotly and ML](./day25/)
+- [Day 26: Global Air Quality Dataset EDA with Plotly and ML](./day26/)
+- [Day 27: F1 Race Results Dataset EDA with Plotly and ML](./day27/)
 
 ## Project Details
 
@@ -143,6 +147,26 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Extensive EDA on Spotify track data including popularity, artist metrics, and genres, followed by classification models to predict track popularity categories.  
 **Key Findings**: Track popularity correlates with artist popularity and followers, explicit content analysis, genre distributions, classification models achieving reasonable accuracy.
 
+### Day 24: Patient Health Dataset EDA and ML
+**Dataset**: Processed patient health dataset with metabolic syndrome indicators  
+**Summary**: Comprehensive EDA and Random Forest classification to predict metabolic syndrome risk from health metrics.  
+**Key Findings**: Obesity percentage strongest predictor, 100% model accuracy, metabolic risk factors key indicators, effective patient risk stratification.
+
+### Day 25: Diamonds Dataset EDA with Plotly and ML
+**Dataset**: Diamonds dataset with physical attributes and pricing  
+**Summary**: Interactive EDA using Plotly and Random Forest regression for diamond price prediction.  
+**Key Findings**: Carat weight dominant predictor, 98.1% R² score, excellent price prediction accuracy, pipeline for easy deployment.
+
+### Day 26: Global Air Quality Dataset EDA with Plotly and ML
+**Dataset**: Global air quality dataset with AQI values and pollutant measurements  
+**Summary**: Interactive EDA using Plotly and Random Forest regression for AQI prediction.  
+**Key Findings**: PM2.5 dominant pollutant, 99.95% R² score, excellent AQI prediction accuracy, pipeline for air quality monitoring.
+
+### Day 27: F1 Race Results Dataset EDA with Plotly and ML
+**Dataset**: Formula 1 race results dataset with driver, constructor, and race information  
+**Summary**: Interactive EDA using Plotly and Random Forest regression for final race position prediction.  
+**Key Findings**: Grid position strongest predictor, 63.5% R² score, constructor and driver performance key factors, pipeline for race outcome prediction.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -158,4 +182,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 23/30
+Current Day: 27/30
