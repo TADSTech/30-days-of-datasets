@@ -34,6 +34,7 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 25: Diamonds Dataset EDA with Plotly and ML](./day25/)
 - [Day 26: Global Air Quality Dataset EDA with Plotly and ML](./day26/)
 - [Day 27: F1 Race Results Dataset EDA with Plotly and ML](./day27/)
+- [Day 28: Global Gender Inequality Index EDA with Plotly and ML](./day28/)
 
 ## Project Details
 
@@ -167,6 +168,11 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Interactive EDA using Plotly and Random Forest regression for final race position prediction.  
 **Key Findings**: Grid position strongest predictor, 63.5% R² score, constructor and driver performance key factors, pipeline for race outcome prediction.
 
+### Day 28: Global Gender Inequality Index EDA with Plotly and ML
+**Dataset**: Global Gender Inequality Index (GII) dataset from UNDP with 241 countries and regions  
+**Summary**: Interactive dark-themed EDA using Plotly and Random Forest regression for inequality prediction.  
+**Key Findings**: Geographic clustering evident, 82.3% R² score, strong development-inequality link, Nordic countries most equal, regional patterns captured effectively.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -182,4 +188,4 @@ This project focuses on building practical data analysis skills through hands-on
 
 ## Progress
 
-Current Day: 27/30
+Current Day: 28/30
