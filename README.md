@@ -35,6 +35,8 @@ This project focuses on building practical data analysis skills through hands-on
 - [Day 26: Global Air Quality Dataset EDA with Plotly and ML](./day26/)
 - [Day 27: F1 Race Results Dataset EDA with Plotly and ML](./day27/)
 - [Day 28: Global Gender Inequality Index EDA with Plotly and ML](./day28/)
+- [Day 29: Mental Health Social Media Analysis](./day29/)
+- [Day 30: Global Health Dataset - Comprehensive EDA & Ensemble ML](./day30/)
 
 ## Project Details
 
@@ -173,6 +175,16 @@ This project focuses on building practical data analysis skills through hands-on
 **Summary**: Interactive dark-themed EDA using Plotly and Random Forest regression for inequality prediction.  
 **Key Findings**: Geographic clustering evident, 82.3% R² score, strong development-inequality link, Nordic countries most equal, regional patterns captured effectively.
 
+### Day 29: Mental Health Social Media Analysis
+**Dataset**: Mental Health Social Media Dataset with 5,000 records  
+**Summary**: Comprehensive EDA and Random Forest classification to predict mental health states from social media usage patterns.  
+**Key Findings**: Screen time correlates with mental health states, 100% model accuracy, anxiety and age show notable relationships, pipeline for mental health risk assessment.
+
+### Day 30: Global Health Dataset - Comprehensive EDA & Ensemble ML
+**Dataset**: Unified Global Health Dataset with 22,050 records across 195 countries (1990-2021)  
+**Summary**: Maximum extensive EDA using Plotly (9 interactive visualizations) and powerful ensemble voting classifier combining Random Forest, Gradient Boosting, Logistic Regression, and KNN models for life expectancy prediction.  
+**Key Findings**: Infant and child mortality rates strongest predictors (45% combined importance), GDP per capita significantly influences health outcomes, voting ensemble achieves 89.93% accuracy, global life expectancy increased from ~65 to ~72 years over 30 years, production-ready pipeline for health outcome predictions.
+
 ## Goals
 
 - Practice data cleaning and preparation techniques
@@ -185,7 +197,8 @@ This project focuses on building practical data analysis skills through hands-on
 
 - Python (pandas, plotly, numpy)
 - Jupyter Notebooks
+- Scikit-learn (ML pipelines and ensemble methods)
 
 ## Progress
 
-Current Day: 28/30
+Current Day: 30/30 ✅ **CHALLENGE COMPLETED!**

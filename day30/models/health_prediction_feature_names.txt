@@ -1,0 +1,1 @@
+Year,Infant Mortality Rate,Under 5 Mortality Rate,Suicides Rate,Birth Rate,Death Rate,GDP per Capita,Total Population,Doctors,Nurses and Midwifes,Road Traffic Deaths,Gender_encoded
