@@ -6,6 +6,19 @@ A personal challenge to explore and analyze a different dataset every day for 30
 
 This project focuses on building practical data analysis skills through hands-on exploration of diverse datasets. Each day includes data cleaning, exploratory data analysis, visualization, and insights extraction.
 
+## Visual Highlights
+
+Here are some visualizations from the final day (Day 30 - Global Health Analysis):
+
+### Global Life Expectancy Distribution
+![Life Expectancy](day30/viz/life_expectancy_distribution.png)
+
+### Economic Impact on Health (GDP vs Life Expectancy)
+![GDP vs Life Expectancy](day30/viz/gdp_vs_life_expectancy.png)
+
+### Model Feature Importance
+![Feature Importance](day30/viz/feature_importance.png)
+
 ## Daily Projects
 
 - [Day 1: Hospital Operations Analysis](./day1/)

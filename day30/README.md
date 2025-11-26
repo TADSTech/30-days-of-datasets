@@ -19,12 +19,29 @@ This is the grand finale of the 30-days-of-datasets challenge! Day 30 features a
 ### 1. Exploratory Data Analysis (EDA)
 Comprehensive visualizations using Plotly (dark theme) to understand global health patterns:
 
-- **Life Expectancy Distribution**: Shows worldwide life expectancy spread with median-based categorization
-- **Infant Mortality vs Life Expectancy**: Scatter plot analysis over time showing strong inverse correlation
-- **GDP vs Life Expectancy by Gender**: Economic impact on health outcomes across genders
-- **Healthcare Impact Analysis**: Box plot showing healthcare coverage influence
-- **Temporal Trends**: Global average life expectancy improvement from 1990-2021
-- **Correlation Heatmap**: Key health indicators and their relationships
+#### Life Expectancy Distribution
+Shows worldwide life expectancy spread with median-based categorization.
+![Life Expectancy Distribution](viz/life_expectancy_distribution.png)
+
+#### Infant Mortality vs Life Expectancy
+Scatter plot analysis over time showing strong inverse correlation.
+![Infant Mortality vs Life Expectancy](viz/mortality_vs_life_expectancy.png)
+
+#### GDP vs Life Expectancy by Gender
+Economic impact on health outcomes across genders.
+![GDP vs Life Expectancy](viz/gdp_vs_life_expectancy.png)
+
+#### Healthcare Impact Analysis
+Box plot showing healthcare coverage influence.
+![Healthcare Impact](viz/healthcare_impact.png)
+
+#### Temporal Trends
+Global average life expectancy improvement from 1990-2021.
+![Life Expectancy Trend](viz/life_expectancy_trend.png)
+
+#### Correlation Heatmap
+Key health indicators and their relationships.
+![Correlation Heatmap](viz/correlation_heatmap.png)
 
 ### 2. Data Processing Pipeline
 - Handled missing values using median imputation
@@ -58,7 +75,13 @@ Comprehensive visualizations using Plotly (dark theme) to understand global heal
 - **Precision**: 90% (both classes)
 - **Recall**: 90% (both classes)
 
+#### Confusion Matrix
+![Confusion Matrix](viz/confusion_matrix_ensemble.png)
+
 ### 4. Top Feature Importance
+Top predictors driving the model's decisions.
+![Feature Importance](viz/feature_importance.png)
+
 1. Infant Mortality Rate (23.2%)
 2. Under 5 Mortality Rate (21.3%)
 3. Birth Rate (14.2%)
